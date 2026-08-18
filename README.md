@@ -79,30 +79,6 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=750&lines=📁+Estrutura+do+Projeto" />
-
-<table>
-<tr>
-<td>
-
-📁 ATV_LISTA1-BACKEND
-├── 📁 exerc
-│   ├── 📄 1_preco.php
-│   ├── 📄 2_aprovacao.php
-│   ├── 📄 3_tabuada.php
-│   ├── 📄 4_notas.php
-│   └── 📄 5_imc.php
-└── 📄 README.md
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=750&lines=🎯+Objetivo" />
 </div>
 
@@ -113,12 +89,6 @@
   </p>
 </div>
 
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=bd93f9&animation=fadeIn" width="100%" />
-</div>
-
-<div align="center">
-  <p>💻 Desenvolvido por <strong>Pedro Henrique</strong></p>
 </div>
