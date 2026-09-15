@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=777BB4&text=💻+ATIVIDADE_BACKEND&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🐘+Atividade+de+Backend+com+PHP&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=777BB4&text=💻+ATIVIDADE+BACKEND&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🐘+Atividade+de+Backend+com+PHP&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=📚+Sobre+a+atividade" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=📚+Sobre+a+atividade" /></div>
 
 <div align="center">
   <p>📌 Atividade desenvolvida no <strong>SENAI</strong> para a disciplina de <strong>Backend</strong>, com o objetivo de praticar conceitos básicos de programação utilizando <strong>PHP</strong>.</p>
@@ -11,7 +11,7 @@
 
 ---
 
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=🎯+Atividades" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=🎯+Atividades" /></div>
 
 <div align="center">
   <p><strong>🔹 <a href="https://github.com/Pedro-h1/ATV_LISTA1-BACKEND/blob/main/exerc/1_preco.php">1. Cálculo de preço</a></strong></p>
@@ -33,7 +33,7 @@
 
 ---
 
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=🛠️+Tecnologias+Utilizadas" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=🛠️+Tecnologias+Utilizadas" /></div>
 
 <div align="center">
   <p>🐘 <strong>PHP</strong></p>
@@ -42,7 +42,7 @@
 
 ---
 
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=🎯+Objetivo" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=🎯+Objetivo" /></div>
 
 <div align="center">
   <p>💻 Praticar os principais conceitos de <strong>programação Backend com PHP</strong>, desenvolvendo soluções simples para cada um dos desafios propostos na atividade.</p>
