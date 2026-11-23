@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:777BB4,100:514E8F&text=💻+ATV+—+BACKEND&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🐘+Atividade+de+Backend+com+PHP&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:777BB4,100:50547D&text=💻+ATV+—+BACKEND&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🐘+Atividade+de+Backend+com+PHP&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=📚+Sobre+a+atividade" />
@@ -54,5 +54,5 @@
     <p>💻 Praticar os principais conceitos de <strong>programação Backend com PHP</strong>, desenvolvendo soluções simples para cada um dos desafios propostos na atividade.</p>
 </div>
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:514E8F,100:777BB4&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:50547D,100:777BB4&animation=fadeIn" width="100%" />
 </div>
