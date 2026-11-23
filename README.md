@@ -1,18 +1,18 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:777BB4,100:50547D&text=💻+ATV+—+BACKEND&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🐘+Atividade+de+Backend+com+PHP&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:262641,100:777BB4&text=💻+ATV+—+BACKEND&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🐘+Atividade+de+Backend+com+PHP&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=📚+Sobre+a+atividade" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=%F0%9F%93%9A+Sobre+a+atividade" />
 </div>
 <div align="center">
-    <p>📌 Atividade desenvolvida no <strong>SENAI</strong> para a disciplina de <strong>Backend</strong>, com o objetivo de praticar conceitos básicos de programação utilizando <strong>PHP</strong>.</p>
+    <p>Atividade desenvolvida no <strong>SENAI</strong> para a disciplina de <strong>Backend</strong>, com o objetivo de praticar conceitos básicos de programação utilizando <strong>PHP</strong>.</p>
     <p>💻 A atividade é composta por <strong>5 desafios</strong>, envolvendo condicionais, operadores lógicos, estruturas de repetição, arrays e funções.</p>
 </div>
 
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=🎯+Atividades" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=%F0%9F%8E%AF+Atividades" />
 </div>
 <div align="center">
     <p><strong>🔹 <a href="https://github.com/Pedro-h1/ATV_LISTA1-BACKEND/blob/main/exerc/1_preco.php">1. Cálculo de preço</a></strong>
@@ -36,7 +36,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=🛠️+Tecnologias+Utilizadas" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=%F0%9F%9B%A0%EF%B8%8F+Tecnologias+Utilizadas" />
 </div>
 <div align="center">
     <p>🐘 <strong>PHP</strong>
@@ -48,11 +48,11 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=🎯+Objetivo" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=%F0%9F%8E%AF+Objetivo" />
 </div>
 <div align="center">
     <p>💻 Praticar os principais conceitos de <strong>programação Backend com PHP</strong>, desenvolvendo soluções simples para cada um dos desafios propostos na atividade.</p>
 </div>
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:50547D,100:777BB4&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:777BB4,100:262641&animation=fadeIn" width="100%" />
 </div>
